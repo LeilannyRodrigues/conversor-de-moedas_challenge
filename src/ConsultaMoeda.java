@@ -6,7 +6,7 @@ import java.net.http.HttpResponse;
 public class ConsultaMoeda {
     public String buscaMoeda(String moedaBase) {
 
-        String chave = "7b1dfb6c770a5a65a55bfe31";
+        String chave = System.getenv("API_KEY_CONVERSOR");
         URI endereco = URI.create("https://v6.exchangerate-api.com/v6/" + chave + "/latest/" + moedaBase);
 
         HttpClient client = HttpClient.newHttpClient();

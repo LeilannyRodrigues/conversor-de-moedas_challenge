@@ -66,4 +66,5 @@ public class Principal {
         System.out.println("O valor " + valor + " [" + base + "] equivale a: =>>> "
                 + resultado + " [" + destino + "]\n");
     }
+
 }
