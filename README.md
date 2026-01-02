@@ -6,8 +6,11 @@
 <h3> Este é um desafio proposto pela Alura em parceria com a Oracle(ONE), O projeto consiste em uma aplicação em java para converter as moedas escolhidas pelo usuário. </h3>
 <h4 align="center"> O objetivo do desafio era criar uma aplicação capaz de consumir a API pública ExchangeRate-API, realizando requisições específicas e manipulando as respostas JSON para apresentar resultados de forma clara e organizada.</h4>
 <br>
+<img width="1920" height="888" alt="image_conversor moedas" src="https://github.com/user-attachments/assets/d84a94a5-f63b-443a-9b7e-528524de6c5f" />
 
-https://github.com/user-attachments/assets/c064ea35-7857-4053-bfc0-4eb4572a25ed
+<video src="https://github.com/user-attachments/assets/c064ea35-7857-4053-bfc0-4eb4572a25ed">
+  Seu navegador não suporta o elemento de vídeo.
+</video>
 
 ## :hammer: Funcionalidades do projeto:
 
